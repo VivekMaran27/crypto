@@ -1,0 +1,4 @@
+File:pi_value_1m.txt hash:076a708a
+File:simple_test hash:61000004
+File:pi_value_1k.txt hash:85a4bac3
+File:BigPiOutput.txt hash:076a708a
